@@ -1,2 +1,19 @@
-
+table {
+	width: 100%;
+	
+}
+table, td,th{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+#r1{
+  background-color: #C0504D;
+  color: white;
+text-allign:left;
+}
+#r2{
+  background-color: #DA9694;
+  color: white;
+	
+}
 /* Your CSS Code here. */
